@@ -119,6 +119,8 @@ app.listen(port, () => console.log(`listening on localhost:${port}`))
 
 // created listening port 9000 / setup db config
 // created mongodb and first api route 4 chanel create
+// all the api routes setup
+
 
 
 
