@@ -117,3 +117,6 @@ app.get('/get/conversation', (req, res) => {
 // listen
 app.listen(port, () => console.log(`listening on localhost:${port}`))
 
+// created listening port 9000 / setup db config
+
+
