@@ -13,3 +13,5 @@ const slackSchema = mongoose.Schema({
 })
 
 export default mongoose.model('conversations', slackSchema)
+
+// created mongodb and first api route 4 chanel create
